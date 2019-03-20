@@ -16,3 +16,9 @@
         background-color: #bada55;
     }
 }
+
+@media (min-width: 992px) and (max-width: 1800px) {
+    .desktop {
+        background-color: #000;
+    }
+}
